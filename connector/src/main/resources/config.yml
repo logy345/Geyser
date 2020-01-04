@@ -17,9 +17,9 @@ bedrock:
   motd2: "Another GeyserMC forced host."
 remote:
   # The IP address of the remote (Java Edition) server
-  address: 127.0.0.1
+  address: 188.165.34.132
   # The port of the remote (Java Edition) server
-  port: 25565
+  port: 25578
 
   # Authentication type. Can be offline, online, or hybrid (see the wiki).
   auth-type: online
