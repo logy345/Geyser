@@ -9,7 +9,7 @@
 
 bedrock:
   # The IP address that will listen for connections
-  address: 54.204.243.39
+  address: 0.0.0.0
   # The port that will listen for connections
   port: 19132
   # The MOTD that will be broadcasted to Minecraft: Bedrock Edition clients
