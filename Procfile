@@ -1,1 +1,1 @@
-worker: java -jar --server.port=19132 target/Geyser.jar
+worker: java -jar target/Geyser.jar --server.port=19132
